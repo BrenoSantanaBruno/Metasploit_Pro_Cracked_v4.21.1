@@ -4,7 +4,7 @@ Metasploit - A project dedicated to information security. Created to provide inf
     Linux --> https://downloads.metasploit.com/data/releases/metasploit-latest-linux-x64-installer.run
     Windows --> https://downloads.metasploit.com/data/releases/metasploit-latest-windows-installer.exe
 
-To crack, we will need to download an archive with ki script that we will replace at the root of the framework itself. Download .rb files --> https://mega.nz/file/jFtzCJoQ#y5bQNQavW1JeM1UMmQlB---ZbexTQ-bqjV25uiSi1Ow
+To crack, we will need to download an archive with ki script that we will replace at the root of the framework itself.
 After we have downloaded this file, we need to move it along the path. write command /opt/metasploit-framework/bin/msfupdate and you can transfer it to a folder ( be sure to restart your PC! )
 
     application.html.erb --> /opt/metasploit/apps/pro/ui/app/views/layouts/application.html.erb
